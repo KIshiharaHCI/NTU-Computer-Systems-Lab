@@ -5,15 +5,15 @@ Computer Systems Lab was a seminar course at the National Taiwan University offe
 <br />
 
 
-<h2>Week 1</h2>
+<h2>Week 1-3</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Setting up Development Environments</b> 
+- <b>Building an acrylic multi-touch pad based on the principles of FTIR</b>
 
-<h3>Environments Used </h3>
+<h3>FTIR Touchpad</h3>
+Frustrated Total Internal Reflection (FTIR) touch technology relies on the principles of light reflection and refraction to detect touch input. For this, an acrylic board was bent into shape such that a platform was made where a webcam could be set up facing up as well as the actual touchpad above the webcam, where the input could be visually captured from. Red LED lights were stuck on the side of the contraption with electrical tape to internally reflect red light in the acrylic material. When the user's finger touches the board, the part of the finger glows red, which can be captured by the webcam.  
+![image](https://github.com/KIshiharaHCI/NTU-Computer-Systems-Lab/assets/122443065/c83e6f6a-9b7f-4370-bd0a-c62c2a5c60c4)
 
-- <b>Windows 10</b>
-  ![image](https://github.com/KIshiharaHCI/NTU-Computer-Systems-Lab/assets/122443065/95fde692-22ef-4bb6-8e80-92e995908f98)
 
 
 <h2>Program walk-through:</h2>
